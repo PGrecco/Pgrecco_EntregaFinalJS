@@ -29,4 +29,9 @@ header nav .container-fluid a i {
   align-items: center;
 }
 
+footer {
+  background-color: #ff9632;
+  height: 100%;
+}
+
 /*# sourceMappingURL=estilos.css.map */
