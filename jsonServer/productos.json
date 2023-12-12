@@ -1,0 +1,62 @@
+[
+    {
+        "nombre": "Botella de Vodka 1L",
+        "precio": 2500
+    },
+    {
+        "nombre": "Botella de Vodka 750ml",
+        "precio": 1800
+    },
+    {
+        "nombre": "Aperitivo sabor limón 1L",
+        "precio": 1500
+    },
+    {
+        "nombre": "Aperitivo sabor limón 750ml",
+        "precio": 1000
+    },
+    {
+        "nombre": "Vino mendocino 750ml",
+        "precio": 2000
+    },
+    {
+        "nombre": "Tetra de vino 1L",
+        "precio": 1000
+    },
+    {
+        "nombre": "Aperitivo de hierbas 1L",
+        "precio": 3000
+    },
+    {
+        "nombre": "Apertitivo de hierbas 750ml",
+        "precio": 1900
+    },
+    {
+        "nombre": "Gaseosa sabor cola, 2,25L",
+        "precio": 800
+    },
+    {
+        "nombre": "Gaseosa sabor cola 1,5L",
+        "precio": 600
+    },
+    {
+        "nombre": "Gaseosa sabor limón 2,25L",
+        "precio": 700
+    },
+    {
+        "nombre": "Gaseosa sabor limón 1,5L",
+        "precio": 500
+    },
+    {
+        "nombre": "Lata de energizante 553ml",
+        "precio": 350
+    },
+    {
+        "nombre": "Gaseosa sabor naranja 2,25L",
+        "precio": 700
+    },
+    {
+        "nombre": "Gaseosa sabor naranja 1,5L",
+        "precio": 500
+    }
+]
